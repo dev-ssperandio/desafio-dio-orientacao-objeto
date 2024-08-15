@@ -13,7 +13,7 @@ No diretório `src` está localizada a classe `Iphone.java` que implementa as in
 
 
 ### 🎲 Diagrama UML
-<img src="/img/diagrama-uml-iphone.PNG">
+<img src="src/img/diagrama-uml-iphone.PNG">
 
 
 ### 🛠 Tecnologias utilizadas:
